@@ -1,8 +1,10 @@
-# Local Markdown Wayfinder Tracker
+# Archived Local Markdown Wayfinder Tracker
 
-No repository issue tracker existed when this map was charted. Issues therefore live as Markdown files in `planning/wayfinder/issues/`.
+No repository issue tracker existed when this map was charted, so issues originally lived under `planning/wayfinder/issues/`.
 
-## Operations
+Canonical tracking moved to GitHub Issues. Continue from [Chart an implementation-ready plan for Xenon Lens](https://github.com/richardochristjia/xenon-lens/issues/1). Files here preserve original charting and research history; do not update them as active tickets.
+
+## Legacy operations
 
 - Identity: `id` in YAML frontmatter.
 - Parent/child: ticket `parent` names map issue ID.
